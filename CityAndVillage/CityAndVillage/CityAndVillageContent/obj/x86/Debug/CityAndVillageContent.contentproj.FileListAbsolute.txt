@@ -1,0 +1,2 @@
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillageContent\obj\x86\Debug\CityAndVillageContent.contentprojResolveAssemblyReference.cache
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillageContent\obj\x86\Debug\CityAndVillageContent.contentprojResolveAssemblyReference.cache

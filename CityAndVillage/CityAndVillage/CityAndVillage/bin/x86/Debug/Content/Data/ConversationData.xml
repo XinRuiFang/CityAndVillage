@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Conversations>
+  <character_boy>
+    <regular>
+      <!--
+      <spring>
+        <mon>
+          <t7_21>(time)
+            base on emotion,weather,mood...
+          </t7_21>        
+        </mon>
+      </spring>
+      <summer></summer>
+      <autumn></autumn>
+      <winter></winter>
+      -->
+      <dialogue>Hello,bro|1^How are you?|2^end</dialogue>
+    </regular>
+  </character_boy>
+  <character_girl_Conductor>
+    <regular>
+      <dialogue>Hello,bro|1^#^yes|6|1^no|7|2^#^Do you wanna buy a ticket?It will cost 20G.^Thank you.|9^Okay.Next Time.|8^
+        Good Luck|15^#^city|14|1^village|14|2^#^Where you wanna go?^Take your ticket.Have a good time.|15^end</dialogue>
+    </regular>
+  </character_girl_Conductor>
+  <character_shopper>
+    <regular>
+      <dialogue>Greetings!|1^end|1</dialogue>
+    </regular>
+  </character_shopper>
+  <Lilis>
+    <regular>
+      <dialogue>Hello!|1^end</dialogue>
+    </regular>
+  </Lilis>
+  <Sabina>
+    <regular>
+      <dialogue>Hello!|1^end</dialogue>
+    </regular>
+  </Sabina>
+  <Olivia>
+    <regular>
+      <dialogue>Hello!|1^end</dialogue>
+    </regular>
+  </Olivia>
+</Conversations>

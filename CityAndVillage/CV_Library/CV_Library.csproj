@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F656C7D4-9BFB-471E-B64F-CAA82E41B29A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CV_Library</RootNamespace>
+    <AssemblyName>CV_Library</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Barriers\Barrier.cs" />
+    <Compile Include="Controllers\DataController.cs" />
+    <Compile Include="Controllers\ResourceController.cs" />
+    <Compile Include="Functions\CharacterTile.cs" />
+    <Compile Include="Functions\FishingSystem.cs" />
+    <Compile Include="Functions\GamingMethods.cs" />
+    <Compile Include="Functions\Mouse.cs" />
+    <Compile Include="Functions\Tile.cs" />
+    <Compile Include="GameObjects\Buildings\Building.cs" />
+    <Compile Include="GameObjects\Buildings\Chest.cs" />
+    <Compile Include="GameObjects\Buildings\Construction.cs" />
+    <Compile Include="GameObjects\Buildings\CowHouse.cs" />
+    <Compile Include="GameObjects\Buildings\FishNet.cs" />
+    <Compile Include="GameObjects\Buildings\Furniture.cs" />
+    <Compile Include="GameObjects\Characters\Animals\Animals.cs" />
+    <Compile Include="GameObjects\Characters\Animals\Cows.cs" />
+    <Compile Include="GameObjects\Items\Fish.cs" />
+    <Compile Include="GameObjects\Characters\Shops.cs" />
+    <Compile Include="GameObjects\Decorats\Bush.cs" />
+    <Compile Include="GameObjects\Decorats\Decorats.cs" />
+    <Compile Include="GameObjects\Environments\Bus.cs" />
+    <Compile Include="GameObjects\Items\Food.cs" />
+    <Compile Include="GameObjects\Items\Goods.cs" />
+    <Compile Include="GameObjects\Items\Materials.cs" />
+    <Compile Include="GameObjects\Items\OutDoorItem.cs" />
+    <Compile Include="GameObjects\Items\Property.cs" />
+    <Compile Include="GameObjects\Items\Seeds.cs" />
+    <Compile Include="GameObjects\Items\Tools.cs" />
+    <Compile Include="GameObjects\Soils\Sand.cs" />
+    <Compile Include="GameObjects\Soils\Soil.cs" />
+    <Compile Include="GameObjects\Soils\Water.cs" />
+    <Compile Include="GameObjects\Soils\Wave.cs" />
+    <Compile Include="GameObjects\Soils\WCliff.cs" />
+    <Compile Include="GameObjects\Trees\KiriTree.cs" />
+    <Compile Include="GameObjects\Trees\Leaf.cs" />
+    <Compile Include="Globals\Buttons.cs" />
+    <Compile Include="Globals\Camera.cs" />
+    <Compile Include="GameObjects\Characters\Character.cs" />
+    <Compile Include="Globals\Define.cs" />
+    <Compile Include="GameObjects\Decorats\Flower.cs" />
+    <Compile Include="Controllers\GameController.cs" />
+    <Compile Include="GameObjects\GameObject.cs" />
+    <Compile Include="Controllers\GlobalController.cs" />
+    <Compile Include="Functions\Inventory.cs" />
+    <Compile Include="GameObjects\Items\Items.cs" />
+    <Compile Include="GameObjects\Environments\Light.cs" />
+    <Compile Include="GameObjects\Scenes\Map.cs" />
+    <Compile Include="GameObjects\Characters\NPC.cs" />
+    <Compile Include="Controllers\NPCController.cs" />
+    <Compile Include="GameObjects\Characters\Player.cs" />
+    <Compile Include="Globals\Fonts.cs" />
+    <Compile Include="Globals\NpcPosition.cs" />
+    <Compile Include="Globals\Saving.cs" />
+    <Compile Include="Globals\UIFrame.cs" />
+    <Compile Include="Globals\UserInterface.cs" />
+    <Compile Include="Interfaces\IGlobalScene.cs" />
+    <Compile Include="Interfaces\IPlayerScene.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GameObjects\Trees\PterocarpinTree.cs" />
+    <Compile Include="GameObjects\Environments\Wind.cs" />
+    <Compile Include="GameObjects\Environments\Rain.cs" />
+    <Compile Include="GameObjects\Trees\Tree.cs" />
+    <Compile Include="Barriers\Trigger.cs" />
+    <Compile Include="GameObjects\Environments\Weather.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

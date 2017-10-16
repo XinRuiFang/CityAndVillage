@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CV>
+  <Lilis>
+    <Map>village_centre</Map>
+    <Position>1104|432</Position>
+    <Gender>false</Gender>
+    <HasLight>true</HasLight>
+    <Action>move</Action>
+    <TargetPosition>village_centre_restaurant|480|360|0</TargetPosition>
+  </Lilis>
+  <Olivia>
+    <Map>village_centre</Map>
+    <Position>1200|432</Position>
+    <Gender>false</Gender>
+    <HasLight>true</HasLight>
+    <Action>move</Action>
+    <TargetPosition>village_centre|216|240|2</TargetPosition>
+  </Olivia>
+  <Sabina>
+    <Map>village_centre</Map>
+    <Position>1296|432</Position>
+    <Gender>false</Gender>
+    <HasLight>true</HasLight>
+    <Action>move</Action>
+    <TargetPosition>village_centre|240|240|3</TargetPosition>
+  </Sabina>
+</CV>

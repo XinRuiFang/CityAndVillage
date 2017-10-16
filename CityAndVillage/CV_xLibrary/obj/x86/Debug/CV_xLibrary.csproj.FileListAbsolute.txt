@@ -1,0 +1,8 @@
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_xLibrary\bin\x86\Debug\CV_xLibrary.dll
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_xLibrary\bin\x86\Debug\CV_xLibrary.pdb
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_xLibrary\obj\x86\Debug\CV_xLibrary.csprojResolveAssemblyReference.cache
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_xLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_xLibrary\obj\x86\Debug\CV_xLibrary.dll
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_xLibrary\obj\x86\Debug\CV_xLibrary.pdb
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_xLibrary\bin\x86\Debug\CV_Library.dll
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_xLibrary\bin\x86\Debug\CV_Library.pdb

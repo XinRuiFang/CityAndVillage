@@ -1,0 +1,272 @@
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CityAndVillage.exe
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CityAndVillage.pdb
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\obj\x86\Debug\CityAndVillage.csprojResolveAssemblyReference.cache
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\obj\x86\Debug\CityAndVillage.exe
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\obj\x86\Debug\CityAndVillage.pdb
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CV_xLibrary.dll
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CV_xLibrary.pdb
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CV_Library.dll
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CV_Library.pdb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\town_downtown.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\UI.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Effects\Light.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Decorats\spring_decorat.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Lights\light.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Decorats\spring_tree.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Decorats\spring_shrub.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\town_suburb.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\pause.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Items\items.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Weathers\spring_rain.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Weathers\spring_wind.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\town_station.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\UI6.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Decorats\tree_shadow.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\bus_right.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\village_suburb_west.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\village_thefarm.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Items\tools.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_mouse_status.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\soil.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Items\seeds.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\character_shadow.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\town_hospital_indoor_first.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\scene_chest.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\village_thefarm_house.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_ordinary.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\font_small.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_calendar.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\font_time.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\font_date.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\font_deposit.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\water.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_logos.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_salebox.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\indoor_things.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Constructions\cowhouse.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Animals\ox.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_bubble.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Systems\fishingsys.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_farmhouse.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_hotel.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house1.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house2.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house3.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_managehouse.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_restaurant.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_shop.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_toolhouse.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house4.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_ambifarm.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_barn.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_clinic.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_farmhouseA.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_farmhouseB.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_farmhouseC.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house5.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house6.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house7.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house8.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_purchasingstation.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_bathroom.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_clinic.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_drink.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_hotel.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house1.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house2.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house3.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house4.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house5.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house6.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house7.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house8.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house9.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_managehouse.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_personalShop.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_restaurant.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_shop.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_station.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\armAnim_0.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\clothesAnim_0.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\eyeAnim_0.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\faceAnim_0.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\hairbackwardAnim_0.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\hairforwardAnim_0.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\legAnim_0.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\shouseAnim_0.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Lilis.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Olivia.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Sabina.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Beryl.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Waneta.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_baggagelist.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_personalMsg.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_conversation.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\1.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\10.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\11.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\12.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\13.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\14.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\15.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\16.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\17.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\18.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\19.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\2.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\20.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\21.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\22.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\23.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\3.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\4.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\5.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\6.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\7.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\8.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\9.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Decorats\1.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Decorats\2.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Objects\1.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Terrains\1.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Terrains\2.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Terrains\3.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Terrains\4.xnb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Pic\Lilis.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\UI.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\UI6.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Effects\Light.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Lights\light.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Decorats\spring_decorat.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\town_suburb.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\pause.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Weathers\spring_rain.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Weathers\spring_wind.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\character_shadow.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Decorats\spring_tree.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Decorats\tree_shadow.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Decorats\spring_shrub.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\town_downtown.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\town_station.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\village_suburb_west.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Items\seeds.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\town_hospital_indoor_first.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_mouse_status.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\village_thefarm.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Maps\village_thefarm_house.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\font_small.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\font_time.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\font_date.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Fonts\font_deposit.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_calendar.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_logos.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\water.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\bus_right.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_salebox.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\scene_chest.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\soil.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Items\tools.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Items\items.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_farmhouse.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Scenes\indoor_things.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Constructions\cowhouse.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Animals\ox.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_bubble.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Systems\fishingsys.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_hotel.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house1.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house2.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house4.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_managehouse.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_restaurant.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_shop.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_toolhouse.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house3.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_ambifarm.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_barn.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_clinic.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_farmhouseA.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_farmhouseB.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_farmhouseC.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house5.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house6.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house7.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_house8.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\village_purchasingstation.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_bathroom.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_clinic.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_drink.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_hotel.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house1.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house2.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house3.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house4.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house5.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house6.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house7.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house8.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_house9.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_managehouse.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_personalShop.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_restaurant.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_shop.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Buildings\town_station.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\armAnim_0.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\clothesAnim_0.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\eyeAnim_0.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\faceAnim_0.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\hairbackwardAnim_0.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\hairforwardAnim_0.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\legAnim_0.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\shouseAnim_0.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Lilis.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Olivia.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Sabina.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Beryl.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Waneta.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_ordinary.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_baggagelist.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_personalMsg.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\UI\UI_conversation.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\1.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\10.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\11.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\12.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\13.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\14.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\15.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\16.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\17.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\18.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\19.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\2.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\20.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\21.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\22.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\23.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\3.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\4.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\5.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\6.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\7.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\8.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Buildings\9.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Decorats\1.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Decorats\2.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Objects\1.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Terrains\1.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Terrains\2.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Terrains\3.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Tiles\Terrains\4.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\Content\Characters\NPC\Pic\Lilis.xnb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CityAndVillage.exe
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CityAndVillage.pdb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CV_Library.dll
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CV_xLibrary.dll
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CV_Library.pdb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\bin\x86\Debug\CV_xLibrary.pdb
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\obj\x86\Debug\CityAndVillage.csprojResolveAssemblyReference.cache
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\obj\x86\Debug\CityAndVillage.exe
+D:\x\Projects\CityAndVillage\CityAndVillage\CityAndVillage\obj\x86\Debug\CityAndVillage.pdb

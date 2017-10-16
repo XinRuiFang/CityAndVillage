@@ -1,0 +1,10 @@
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_Library\bin\Debug\CV_Library.dll
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_Library\bin\Debug\CV_Library.pdb
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_Library\obj\Debug\CV_Library.dll
+c:\users\farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_Library\obj\Debug\CV_Library.pdb
+C:\Users\Farewell\documents\visual studio 2013\Projects\CityAndVillage\CV_Library\obj\Debug\CV_Library.csprojResolveAssemblyReference.cache
+D:\x\Projects\CityAndVillage\CV_Library\bin\Debug\CV_Library.dll
+D:\x\Projects\CityAndVillage\CV_Library\bin\Debug\CV_Library.pdb
+D:\x\Projects\CityAndVillage\CV_Library\obj\Debug\CV_Library.csprojResolveAssemblyReference.cache
+D:\x\Projects\CityAndVillage\CV_Library\obj\Debug\CV_Library.dll
+D:\x\Projects\CityAndVillage\CV_Library\obj\Debug\CV_Library.pdb

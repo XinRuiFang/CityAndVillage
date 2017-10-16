@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <Seeds>
+    <!-- 
+          name="" price="" state_1_Time="" state_2_Time="" state_3_Time="" state_4_Time=""
+          waterConsume="" harvestThingId=""  harvastNum="" harvestTime="" dry_health="" moist_health="" 
+          harvest_postpone_health=""  disease_health="" dry_max_time="" moist_max_time="" harvest_max_postpone_time=""
+          disease_max_time="" frameX="" frameY=""     
+    -->
+    <_001>strawberry seed|50|1440|2880|4320|5760|0.417|02_001|3|300000|1440|1440|1440|1440|4320|4320|4320|4320|1|2|Strawberry seed can grow up to strawberry.</_001>
+    <_002>gress seed|50|1440|2880|4320|5760|0.417|05_003|3|300000|1440|1440|1440|1440|4320|4320|4320|4320|0|2|Healthy food for animal.</_002>
+  </Seeds>
+  <Foods>
+    <!--
+     name="" type="" price="" frameX="" frameY=""
+    -->
+    <_001>strawberry|1|100|1|3|It's good to eat.</_001>
+  </Foods>
+  
+  <Tools>
+    <!--
+    name="" type="" price=""
+    -->
+    <_001>hoe|1|100|Just a hoe.</_001>
+    <_002>kettle|2|100|Just a kettle.</_002>
+    <_003>ax|3|100|Just a Ax.</_003>
+    <_004>fishing rod|4|100|Just a fishing rod.</_004>
+  </Tools>
+  <Property>
+    <!--
+    name="" price="" frameX="" frameY=""
+    -->
+    <_001>crystal ball|10000|0|0|A mystory ball with crystal.</_001>
+    <_002>fish net|10000|1|0|A small fish net.</_002>
+  </Property>
+  <Materials>
+    <_001>Pterocarpin Log|120|0|1|It's Pterocarpin Log.</_001>
+    <_003>feed|120|2|1|It's feed for animals.</_003>
+    <_004>fish feed|80|3|1|It's feed for fishes.</_004>
+  </Materials>
+  <Fish>
+    <_001>Gray fish|1|350|0|4|A living fish, will die without water.</_001>
+  </Fish>
+</Items>

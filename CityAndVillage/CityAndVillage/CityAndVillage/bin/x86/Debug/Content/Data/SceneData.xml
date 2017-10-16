@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<global>
+  <town_downtown>
+    <trees>
+      <pterocarpinTree x="15" y="3"/>
+      <pterocarpinTree x="20" y="4"/>
+      <pterocarpinTree x="8" y="4"/>
+      <pterocarpinTree x="5" y="6"/>
+      <pterocarpinTree x="1" y="6"/>
+      <pterocarpinTree x="25" y="4"/>
+      <pterocarpinTree x="30" y="7"/>
+      <pterocarpinTree x="29" y="10"/>
+      <pterocarpinTree x="30" y="24"/>
+      <pterocarpinTree x="110" y="14"/>
+      <pterocarpinTree x="114" y="16"/>
+      <pterocarpinTree x="118" y="17"/>
+      <pterocarpinTree x="114" y="146"/>
+      <pterocarpinTree x="118" y="142"/>
+
+      <pterocarpinTree x="116" y="138"/>
+      <pterocarpinTree x="117" y="150"/>
+      <pterocarpinTree x="121" y="149"/>
+
+      <pterocarpinTree x="111" y="117"/>
+      <pterocarpinTree x="111" y="122"/>
+      <pterocarpinTree x="111" y="127"/>
+      <pterocarpinTree x="111" y="132"/>
+      <pterocarpinTree x="111" y="137"/>
+      <pterocarpinTree x="111" y="142"/>
+      <pterocarpinTree x="111" y="147"/>
+      
+      <pterocarpinTree x="96" y="145"/>
+      <pterocarpinTree x="115" y="124"/>
+      <pterocarpinTree x="117" y="129"/>
+      <kiriTree x="114" y="133"/>
+      <kiriTree x="122" y="136"/>
+    </trees>
+    <barriers>
+      <barrier x="0" y="1" width="12" height="5" />      
+      <barrier x="12" y="1" width="6" height="6" />
+      <barrier x="18" y="1" width="6" height="5" />
+      <barrier x="24" y="1" width="5" height="6" />      
+      <barrier x="29" y="1" width="19" height="10" />
+      <barrier x="59" y="1" width="19" height="9" />
+      <barrier x="78" y="1" width="2" height="6" />
+      <barrier x="80" y="1" width="3" height="5" />
+      <barrier x="83" y="1" width="16" height="4" />
+      <barrier x="99" y="1" width="23" height="9" />
+      <barrier x="122" y="1" width="15" height="14" />
+      <barrier x="144" y="12" width="6" height="17" />
+      <barrier x="139" y="29" width="11" height="3" />
+      <barrier x="134" y="32" width="16" height="3" />
+      <barrier x="132" y="35" width="18" height="2" />
+      <barrier x="129" y="37" width="21" height="10" />      
+      <barrier x="135" y="47" width="15" height="5" />
+      <barrier x="144" y="52" width="6" height="55" />
+      <barrier x="117" y="107" width="33" height="4" />
+      <barrier x="114" y="111" width="36" height="3" />
+      <barrier x="113" y="114" width="37" height="3" />
+      <barrier x="112" y="117" width="38" height="34" />
+
+      <barrier x="29" y="144" width="74" height="7" />
+      <barrier x="20" y="147" width="9" height="4" />
+      <barrier x="15" y="148" width="5" height="3" />
+      <barrier x="0" y="147" width="15" height="4" />
+      <barrier x="0" y="114" width="8" height="33" />
+      <barrier x="0" y="74" width="5" height="31" />
+      <barrier x="0" y="49" width="11" height="16" />
+      <barrier x="0" y="11" width="2" height="33" />
+      <barrier x="0" y="6" width="7" height="5" />
+      
+    </barriers>
+    <triggers>
+      <trigger x="0" y="65" width="2" height="9" index="11" />
+      <trigger x="103" y="149" width="9" height="2" index="2" />
+      <trigger x="0" y="105" width="2" height="9" index="12" />
+    </triggers>
+    <bushs>
+      <bush x="110" y="16" style="1" />
+      <bush x="110" y="19" style="2" />
+      <bush x="115" y="22" style="3" />
+      <bush x="115" y="19" style="4" />
+      <bush x="115" y="25" style="5" />
+      
+      <bush x="114" y="140" style="2" />
+      <bush x="118" y="130" style="3" />
+    </bushs>
+    <flowers>
+      <flower x="113" y="148" />
+      <flower x="113" y="137" />
+      <flower x="118" y="145" />
+      <flower x="121" y="139" />
+      <flower x="116" y="134" />
+      <flower x="117" y="130" />
+      <flower x="98" y="147" />
+      <flower x="100" y="144" />
+    </flowers>
+    <decorats>
+      <decorat x="115" y="125" style="1"/>
+      <decorat x="102" y="137" style="1"/>
+      <decorat x="114" y="135" style="1"/>
+      <decorat x="119" y="133" style="1"/>
+      <decorat x="100" y="132" style="1"/>
+      <decorat x="101" y="149" style="1"/>
+      <decorat x="110" y="134" style="1"/>
+      <decorat x="113" y="147" style="1"/>
+      <decorat x="111" y="124" style="1"/>
+      <decorat x="99" y="144" style="1"/>
+      <decorat x="112" y="135" style="2"/>
+    </decorats>
+    <buildings>
+      
+    <building name="town_centerhouse_hospital" x="12" y="56" sizex="15" sizey="15" collix="15" colliy="6" 
+              rectX="6" rectY="12" rectWidth="3" rectHeight="3" targetScene="town_hospital_indoor_first"/>
+    </buildings>
+    <water></water>
+  </town_downtown>
+  <town_hospital_indoor_first>
+    <trees></trees>
+    <barriers></barriers>
+    <triggers>
+      <trigger x="17" y="25" width="7" height="1" index="21" />
+    </triggers>
+    <bushs></bushs>
+    <flowers></flowers>
+    <decorats></decorats>
+    <buildings></buildings>
+    <water></water>
+  </town_hospital_indoor_first>
+  <town_suburb>
+    <trees></trees>
+    <barriers></barriers>
+    <triggers>
+      <trigger x="2850" y="1590" width="30" height="300" index="1" />
+    </triggers>
+    <bushs></bushs>
+    <flowers></flowers>
+    <decorats></decorats>
+  <buildings></buildings>
+    <water></water>
+  </town_suburb>
+  <town_station>
+    <trees></trees>
+    <barriers></barriers>
+    <triggers>
+      <trigger x="55" y="1" width="5" height="1" index="2" />
+    </triggers>
+    <bushs></bushs>
+    <flowers></flowers>
+    <decorats></decorats>
+  <buildings></buildings>
+    <water></water>
+  </town_station>
+  <village_suburb_west>
+    <trees></trees>
+    <barriers></barriers>
+    <triggers>
+      <trigger x="167" y="25" width="1" height="4" index="41" />
+    </triggers>
+    <bushs></bushs>
+    <flowers></flowers>
+    <decorats></decorats>
+    <buildings></buildings>
+    <water></water>
+  </village_suburb_west>
+  <village_thefarm>
+    <trees>
+      
+    </trees>
+    <barriers>
+      <barrier x="0" y="1" width="75" height="11" />
+      <barrier x="75" y="1" width="25" height="13" />
+      <barrier x="96" y="20" width="4" height="7" />
+      <barrier x="95" y="27" width="5" height="3" />
+      <barrier x="94" y="30" width="6" height="4" />
+      <barrier x="92" y="34" width="8" height="11" />
+      <barrier x="93" y="45" width="7" height="3" />
+      <barrier x="95" y="48" width="5" height="3" />
+      <barrier x="96" y="51" width="4" height="3" />
+      <barrier x="97" y="54" width="3" height="8" />
+      <barrier x="98" y="62" width="2" height="4" />
+      <barrier x="97" y="66" width="3" height="5" />
+      <barrier x="96" y="71" width="4" height="3" />
+      <barrier x="95" y="74" width="5" height="7" />
+      <barrier x="90" y="77" width="5" height="4" />
+      <barrier x="78" y="78" width="12" height="3" />
+      <barrier x="68" y="78" width="5" height="3" />
+      <barrier x="66" y="77" width="2" height="4" />
+      <barrier x="62" y="76" width="4" height="5" />
+      <barrier x="56" y="75" width="6" height="6" />
+      <barrier x="49" y="76" width="7" height="5" />
+      <barrier x="44" y="77" width="5" height="4" />
+      <barrier x="31" y="78" width="13" height="3" />
+      <barrier x="23" y="79" width="8" height="2" />
+      <barrier x="11" y="78" width="12" height="3" />
+      <barrier x="10" y="73" width="1" height="8" />
+      <barrier x="9" y="72" width="1" height="9" />
+      <barrier x="4" y="60" width="5" height="21" />
+      <barrier x="0" y="56" width="4" height="25" />
+      <barrier x="0" y="17" width="3" height="5" />
+      <barrier x="0" y="22" width="6" height="19" />
+      <barrier x="0" y="41" width="4" height="5" />
+      <barrier x="0" y="46" width="2" height="5" />
+    </barriers>
+    <triggers>
+      <trigger x="0" y="50" width="1" height="6" index="32" />
+    </triggers>
+    <bushs></bushs>
+    <flowers></flowers>
+    <decorats></decorats>
+    <buildings>
+      <building name="village_thefarm_farmhouse" x="27" y="10" sizex="13" sizey="10" collix="13" colliy="6"
+              rectX="9" rectY="8" rectWidth="1" rectHeight="2" targetScene="village_thefarm_house"/>
+    </buildings>
+    <water>
+    </water>
+  </village_thefarm>
+  <village_thefarm_house>
+    <trees></trees>
+    <barriers></barriers>
+    <triggers>
+      
+    </triggers>
+    <bushs></bushs>
+    <flowers></flowers>
+    <decorats></decorats>
+    <buildings></buildings>
+    <water></water>
+  </village_thefarm_house>
+</global>
